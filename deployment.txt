@@ -1,2 +1,1 @@
-Frontend URL: https://<your-frontend-domain>
-Backend Base API URL: https://<your-backend-domain>/api
+Hosted on https://dass-ass.vercel.app/
